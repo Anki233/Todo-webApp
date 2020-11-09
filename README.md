@@ -9,16 +9,7 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+### preview
 ```
-npm run build
+https://todo-web-app123.netlify.app/
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
